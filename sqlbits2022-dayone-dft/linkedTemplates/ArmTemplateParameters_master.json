@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "sqlbits2022-dayone-dft"
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://sqlbits2022day1datalake.dfs.core.windows.net"
+		},
+		"Brickable_properties_typeProperties_url": {
+			"value": "https://cdn.rebrickable.com"
+		},
+		"Brickable_Themes_properties_typeProperties_url": {
+			"value": "https://cdn.rebrickable.com/media/downloads/themes.csv.gz?1646730480.4507792"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
