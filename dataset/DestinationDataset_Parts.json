@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "rebrickable_adls_csv_parts",
+				"fileName": "rebrickable_adls_csv_parts.csv",
 				"fileSystem": "sqlbits2022day1fs"
 			},
 			"columnDelimiter": ",",
