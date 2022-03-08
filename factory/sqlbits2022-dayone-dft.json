@@ -1,0 +1,9 @@
+{
+	"name": "sqlbits2022-dayone-dft",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2dbcd1c-eb81-4518-a977-0f59fb66031d",
+		"tenantId": "193cb3bb-1c87-4583-8b2f-c164916044bd"
+	}
+}
